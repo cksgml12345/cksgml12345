@@ -9,10 +9,7 @@
 
 ### Experience
 
-> 2023
-* [Fisolution](http://www.fisolution.co.kr/index#SOFTWARE) Front Engineer
-
 > 2022
-* [Fisolution](http://www.fisolution.co.kr/index#SOFTWARE) Backend Engineer
+* [Fisolution](http://www.fisolution.co.kr/index#SOFTWARE) Front Engineer, Backend Engineer
 
 ![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
