@@ -13,7 +13,6 @@
 > 2022, 2023
 * [Fisolution](http://www.fisolution.co.kr/index#SOFTWARE) Backend Engineer
 </h2>
-<br>
 
 ### Interest
 <div>
