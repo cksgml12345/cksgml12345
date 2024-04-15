@@ -9,7 +9,7 @@
 
 ### Experience
 > 2024
-* [Fisolution] Front Engineer
+* [Fisolution](http://www.fisolution.co.kr/index#SOFTWARE) Front Engineer
 > 2022, 2023
 * [Fisolution](http://www.fisolution.co.kr/index#SOFTWARE) Backend Engineer
 </h2>
