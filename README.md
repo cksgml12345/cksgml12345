@@ -5,10 +5,6 @@
 
 ### Projects
 
-| Project | Desc | Remark | Role |
-|------|---|---|----|
-| <img src="iluvit.png" width="24px" height="24px" /> 아이러빗 (https://github.com/dltjdn/iluvit-backend) | 어린이집/유치원 정보를 한곳에서 확인할 수 있는 서비스 | Play Store (https://play.google.com/store/apps/details?id=com.iluvit.app&hl=ko-KR) App Store (https://apps.apple.com/kr/app/%EC%95%84%EC%9D%B4%EB%9F%AC%EB%B9%97/id6450625509) | Server Developer (Spring) |
-
 ### Experience
 
 > 2024
