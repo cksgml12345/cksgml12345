@@ -13,6 +13,7 @@
 |---|---|---|
 | [university-OCR-project](https://github.com/cksgml12345/university-OCR-project) | 이미지 업로드, OCR 처리, 결과 다운로드를 제공하는 웹 애플리케이션 | **Full Stack** (Frontend + Backend 100%) |
 | [springboot-basic-project](https://github.com/cksgml12345/springboot-basic-project) | Spring Boot 학습용 프로젝트로 CRUD 포함 기본 기능 5가지 구현 | **Backend** (Spring Boot) |
+| [cave-miner](https://github.com/cksgml12345/cave-miner) | React로 만든 방치형 동굴 채굴 게임(자동/수동 채굴, 스킬/유물, 보급 상점, 업적) | **Frontend** (React) |
 
 ## Professional Projects (at FISOLUTION)
 
