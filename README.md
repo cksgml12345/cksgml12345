@@ -11,18 +11,24 @@
 
 | Project | Description | Role |
 |---|---|---|
+| [maumlog](https://github.com/cksgml12345/maumlog-frontend) | 일상 기록 및 감정 관리를 위한 풀스택 블로그 플랫폼 ([Backend](https://github.com/cksgml12345/maumLog-backend) 포함) | **Full Stack** (Spring Boot + React) |
 | [university-OCR-project](https://github.com/cksgml12345/university-OCR-project) | 이미지 업로드, OCR 처리, 결과 다운로드를 제공하는 웹 애플리케이션 | **Full Stack** (Frontend + Backend 100%) |
+| [cave-miner](https://github.com/cksgml12345/cave-miner) | React로 만든 방치형 동굴 채굴 게임 (자동/수동 채굴, 스킬/유물, 업적 시스템) | **Frontend** (React) |
 | [springboot-basic-project](https://github.com/cksgml12345/springboot-basic-project) | Spring Boot 학습용 프로젝트로 CRUD 포함 기본 기능 5가지 구현 | **Backend** (Spring Boot) |
-| [cave-miner](https://github.com/cksgml12345/cave-miner) | React로 만든 방치형 동굴 채굴 게임(자동/수동 채굴, 스킬/유물, 보급 상점, 업적) | **Frontend** (React) |
 
 ## Professional Projects (at FISOLUTION)
 
 | Project | Description | Role |
 |---|---|---|
-| [fisq-frontend](https://github.com/FISOLUTION/fisq-frontend.git) | 펼쳐진 책 이미지 6개 포인트 지정, PyTorch 학습 연동, 이미지 분할/페이지 추출 UI 구현 | **Frontend** |
-| [FE_police_service](https://github.com/FISOLUTION/FE_police_service) | 경찰 서비스 프론트엔드 화면 구현 및 기능 개발 참여 | **Frontend** |
-| [FE_iluvit_mobile_app](https://github.com/FISOLUTION/FE_iluvit_mobile_app) | 이미지 S3 업로드 및 업로드 결과 표시를 포함한 모바일 앱 화면 구현 | **Frontend** |
-| [iluvit-backend](https://github.com/FISOLUTION/iluvit-backend) | 서비스 API 개발 및 데이터베이스 설계/운영 | **Backend** |
+| [fisq-frontend](https://github.com/FISOLUTION/fisq-frontend.git) | 이미지 6개 포인트 지정, PyTorch 학습 연동, 이미지 분할/페이지 추출 UI 구현 | **Frontend** |
+| [FE_police_service](https://github.com/FISOLUTION/FE_police_service) | 경찰 서비스 프론트엔드 화면 구현 및 주요 기능 개발 참여 | **Frontend** |
+| [FE_iluvit_mobile_app](https://github.com/FISOLUTION/FE_iluvit_mobile_app) | AWS S3 업로드 연동 및 업로드 결과 시각화 포함 모바일 앱 화면 구현 | **Frontend** |
+| [iluvit-backend](https://github.com/FISOLUTION/iluvit-backend) | 서비스 API 개발 및 데이터베이스 설계/운영 관리 | **Backend** |
+
+## Certifications
+
+- **SQLD (SQL 개발자)** | 한국데이터산업진흥원
+- **정보처리기사** | 한국산업인력공단 (준비 중)
 
 ## Skills
 
